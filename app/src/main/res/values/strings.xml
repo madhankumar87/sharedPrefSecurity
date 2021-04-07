@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSecurity</string>
+    <string name="secretName">Secret Name</string>
+    <string name="secretValue">Secret Value</string>
+    <string name="save">Save</string>
+    <string name="fetch">Fetch</string>
+</resources>
